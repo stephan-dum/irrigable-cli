@@ -1,0 +1,17 @@
+{
+  "name": "@aboutweb/irrigable-cli",
+  "version": "1.0.0",
+  "description": "cli for irrigable streams",
+  "bin" : {
+    "irrigable" : "./bin/cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies" : {
+    "irrigable" : "^1.0.0"
+  }
+}
