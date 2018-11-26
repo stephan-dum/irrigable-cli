@@ -1,6 +1,6 @@
 {
   "name": "@aboutweb/irrigable-cli",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "cli for irrigable streams",
   "bin": {
     "irrigable": "./bin/cli.js"
