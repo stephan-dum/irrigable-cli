@@ -24,6 +24,6 @@
   "homepage": "https://github.com/stephan-dum/irrigable-cli#readme",
   "license": "ISC",
   "dependencies": {
-    "@aboutweb/irrigable": "^0.0.2"
+    "@aboutweb/irrigable": "^0.0.3"
   }
 }
