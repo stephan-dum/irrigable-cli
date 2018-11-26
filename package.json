@@ -1,6 +1,6 @@
 {
   "name": "@aboutweb/irrigable-cli",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "cli for irrigable streams",
   "bin": {
     "irrigable": "./bin/cli.js"
@@ -24,6 +24,6 @@
   "homepage": "https://github.com/stephan-dum/irrigable-cli#readme",
   "license": "ISC",
   "dependencies": {
-    "@aboutweb/irrigable": "^0.0.3"
+    "@aboutweb/irrigable": "^0.0.4"
   }
 }
